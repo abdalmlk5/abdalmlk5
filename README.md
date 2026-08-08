@@ -1,58 +1,107 @@
-<h1 align="center">Hi 👋, I'm Abdelmalek Mokhtar</h1>
-<h3 align="center">Flutter Developer | Building cross-platform apps that ship</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://abdelmalek-portfolio.vercel.app" target="_blank">🌐 Portfolio</a> •
-  <a href="https://linkedin.com/in/abdelmalek-mokhtar-103b3430b" target="_blank">💼 LinkedIn</a> •
-  <a href="mailto:abdelmalek.mokhtar.flutter@gmail.com">📧 Email</a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1F1F,100:00E5CC&height=200&section=header&text=Abdelmalek%20Mokhtar&fontSize=42&fontColor=00E5CC&fontAlignY=38&animation=fadeIn&desc=Flutter%20Developer&descAlignY=58&descSize=18&descColor=FFFFFF" />
 
----
+<a href="https://abdelmalek-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1F1F?style=for-the-badge&logo=vercel&logoColor=00E5CC" /></a>
+<a href="https://linkedin.com/in/abdelmalek-mokhtar-103b3430b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1F1F?style=for-the-badge&logo=linkedin&logoColor=00E5CC" /></a>
+<a href="mailto:abdelmalek.mokhtar.flutter@gmail.com"><img src="https://img.shields.io/badge/Email-0D1F1F?style=for-the-badge&logo=gmail&logoColor=00E5CC" /></a>
 
-### 🚀 About Me
-- 🎯 Flutter Developer, currently interning at **Elevate Tech**
-- 📱 Working on **Flowery App** & **Flowery Rider App** — production apps built with Flutter
-- 🏗️ Building **Super Fitness App**, an AI-powered fitness app, with Elevate Team 6
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00E5CC&center=true&vCenter=true&width=500&lines=Building+cross-platform+apps+with+Flutter;Currently+%40+Elevate+Tech;Open+to+Flutter+roles+%26+freelance+work" />
+
+</div>
+
+<br>
+
+## About Me
+
+```dart
+class Abdelmalek {
+  final String role = 'Flutter Developer';
+  final String company = 'Elevate Tech';
+  final List<String> projects = ['Flowery App', 'Flowery Rider App', 'Super Fitness App'];
+  final String currentFocus = 'Clean Architecture & Scalable State Management';
+  final bool openToWork = true;
+}
+```
+
+- 📱 Working on **Flowery App** & **Flowery Rider App** — production Flutter apps at Elevate Tech
+- 🏋️ Building **Super Fitness App**, an AI-powered fitness app, with Elevate Team 6
 - 🎓 Studying at Al-Azhar University (Faculty of Science)
-- 🌱 Always leveling up — trained through Route Academy, Elevate Bootcamp & more
-- 💬 Ask me about Flutter, Dart, State Management, or Clean Architecture
+- 🌱 Continuously training — Route Academy, Elevate Bootcamp & more
 
----
+<br>
 
-### 🛠️ Tech Stack
+## Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-</p>
+<div align="left">
 
----
+<img src="https://img.shields.io/badge/Flutter-0D1F1F?style=for-the-badge&logo=flutter&logoColor=00E5CC" />
+<img src="https://img.shields.io/badge/Dart-0D1F1F?style=for-the-badge&logo=dart&logoColor=00E5CC" />
+<img src="https://img.shields.io/badge/Firebase-0D1F1F?style=for-the-badge&logo=firebase&logoColor=00E5CC" />
+<img src="https://img.shields.io/badge/Git-0D1F1F?style=for-the-badge&logo=git&logoColor=00E5CC" />
+<img src="https://img.shields.io/badge/GitHub_Actions-0D1F1F?style=for-the-badge&logo=githubactions&logoColor=00E5CC" />
+<img src="https://img.shields.io/badge/Jira-0D1F1F?style=for-the-badge&logo=jira&logoColor=00E5CC" />
 
-### 📌 Featured Projects
+</div>
 
-| Project | Description |
-|---|---|
-| [Flowery App](https://github.com/abdalmlk5) | Customer-facing Flutter app for a flower delivery platform |
-| [Flowery Rider App](https://github.com/abdalmlk5) | Companion delivery-rider app, integrated with the main platform |
-| [Super Fitness App](https://github.com/elevate-team-6) | AI-powered fitness app built in Flutter with a 6-person team |
+<br>
 
----
+## Featured Projects
 
-### 📊 GitHub Stats
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdalmlk5&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abdalmlk5&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalmlk5&layout=compact&theme=tokyonight" />
-</p>
+### 💪 Super Fitness App
+AI-powered fitness app built in Flutter with a 6-person team.
+<br>
+<a href="[https://github.com/elevate-team-6](https://github.com/elevate-team-6/super-fitness-app)"><img src="https://img.shields.io/badge/Repo-0D1F1F?style=flat-square&logo=github&logoColor=00E5CC" /></a>
 
----
+</td>
+<td width="50%">
+  
+### 🏍️ Flowery Rider App
+Companion delivery-rider app, integrated with the main platform.
+<br>
+<a href="[https://github.com/abdalmlk5](https://github.com/elevate-team-6/flowery-rider-app)"><img src="https://img.shields.io/badge/Repo-0D1F1F?style=flat-square&logo=github&logoColor=00E5CC" /></a>
 
-<p align="center">📫 Open to Flutter roles & freelance work — feel free to reach out!</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌸 Flowery App
+Customer-facing Flutter app for a flower delivery platform.
+<br>
+<a href="[https://github.com/abdalmlk5](https://github.com/elevate-team-6/flowers-app)"><img src="https://img.shields.io/badge/Repo-0D1F1F?style=flat-square&logo=github&logoColor=00E5CC" /></a>
+
+</td>
+<td width="50%">
+  
+
+### 🌐 Portfolio
+Single-file dark-mode portfolio, self-updating via JSON.
+<br>
+<a href="https://abdelmalek-portfolio.vercel.app"><img src="https://img.shields.io/badge/Visit-0D1F1F?style=flat-square&logo=vercel&logoColor=00E5CC" /></a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdalmlk5&show_icons=true&hide_border=true&bg_color=0D1F1F&title_color=00E5CC&icon_color=00E5CC&text_color=FFFFFF" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abdalmlk5&hide_border=true&background=0D1F1F&stroke=00E5CC&ring=00E5CC&fire=00E5CC&currStreakLabel=00E5CC&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalmlk5&layout=compact&hide_border=true&bg_color=0D1F1F&title_color=00E5CC&text_color=FFFFFF" />
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5CC,100:0D1F1F&height=100&section=footer" />
