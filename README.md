@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1F1F,100:00E5CC&height=200&section=header&text=Abdelmalek%20Mokhtar&fontSize=42&fontColor=00E5CC&fontAlignY=38&animation=fadeIn&desc=Flutter%20Developer&descAlignY=58&descSize=18&descColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1F1F,100:00E5CC&height=200&section=header&text=Abdelmalek%20Mokhtar&fontSize=38&fontColor=00E5CC&fontAlignY=35&animation=fadeIn&desc=Mobile%20App%20Developer%20%7C%20Flutter%20Developer&descAlignY=55&descSize=16&descColor=FFFFFF" />
 
-<a href="https://abdelmalek-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1F1F?style=for-the-badge&logo=vercel&logoColor=00E5CC" /></a>
-<a href="https://linkedin.com/in/abdelmalek-mokhtar-103b3430b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1F1F?style=for-the-badge&logo=linkedin&logoColor=00E5CC" /></a>
-<a href="mailto:abdelmalek.mokhtar.flutter@gmail.com"><img src="https://img.shields.io/badge/Email-0D1F1F?style=for-the-badge&logo=gmail&logoColor=00E5CC" /></a>
+<a href="https://abdelmalek-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/abdelmalek-mokhtar-103b3430b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abdelmalek.mokhtar.flutter@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://bazvtsziddalvbkjgeky.supabase.co/storage/v1/object/public/cv/Abdelmalek_Mokhtar_CV.pdf" target="_blank" download><img src="https://img.shields.io/badge/Download_CV-00E5CC?style=for-the-badge&logo=googledrive&logoColor=0D1F1F" /></a>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00E5CC&center=true&vCenter=true&width=500&lines=Building+cross-platform+apps+with+Flutter;Currently+%40+Elevate+Tech;Open+to+Flutter+roles+%26+freelance+work" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00E5CC&center=true&vCenter=true&width=550&lines=Building+cross-platform+apps+with+Flutter;Interning+%40+Elevate+Tech;Open+to+Flutter+roles+%26+freelance+work" />
 
 </div>
 
@@ -16,16 +17,17 @@
 
 ```dart
 class Abdelmalek {
-  final String role = 'Flutter Developer';
-  final String company = 'Elevate Tech';
-  final List<String> projects = ['Flowery App', 'Flowery Rider App', 'Super Fitness App'];
-  final String currentFocus = 'Clean Architecture & Scalable State Management';
+  final String role = 'Mobile App Developer | Flutter Developer';
+  final String internship = 'Elevate Tech';
+  final List<String> projects = ['Super Fitness App', 'Flowery Rider App', 'Flowery App'];
+  final String currentFocus = 'Clean architecture & scalable state management in production apps';
   final bool openToWork = true;
 }
 ```
 
-- 📱 Working on **Flowery App** & **Flowery Rider App** — production Flutter apps at Elevate Tech
 - 🏋️ Building **Super Fitness App**, an AI-powered fitness app, with Elevate Team 6
+- 🏍️ Working on **Flowery Rider App** — delivery-rider Flutter app at Elevate Tech
+- 🌸 Working on **Flowery App** — customer-facing Flutter app at Elevate Tech
 - 🎓 Studying at Al-Azhar University (Faculty of Science)
 - 🌱 Continuously training — Route Academy, Elevate Bootcamp & more
 
@@ -52,19 +54,18 @@ class Abdelmalek {
 <tr>
 <td width="50%">
 
-
 ### 💪 Super Fitness App
-AI-powered fitness app built in Flutter with a 6-person team.
+AI-powered fitness app built in Flutter with Elevate Team 6.
 <br>
-<a href="[https://github.com/elevate-team-6](https://github.com/elevate-team-6/super-fitness-app)"><img src="https://img.shields.io/badge/Repo-0D1F1F?style=flat-square&logo=github&logoColor=00E5CC" /></a>
+<a href="https://github.com/elevate-team-6/super-fitness-app"><img src="https://img.shields.io/badge/Repo-0D1F1F?style=flat-square&logo=github&logoColor=00E5CC" /></a>
 
 </td>
 <td width="50%">
-  
+
 ### 🏍️ Flowery Rider App
-Companion delivery-rider app, integrated with the main platform.
+Delivery-rider Flutter app, integrated with the main platform.
 <br>
-<a href="[https://github.com/abdalmlk5](https://github.com/elevate-team-6/flowery-rider-app)"><img src="https://img.shields.io/badge/Repo-0D1F1F?style=flat-square&logo=github&logoColor=00E5CC" /></a>
+<a href="https://github.com/elevate-team-6/flowery-rider-app"><img src="https://img.shields.io/badge/Repo-0D1F1F?style=flat-square&logo=github&logoColor=00E5CC" /></a>
 
 </td>
 </tr>
@@ -74,11 +75,10 @@ Companion delivery-rider app, integrated with the main platform.
 ### 🌸 Flowery App
 Customer-facing Flutter app for a flower delivery platform.
 <br>
-<a href="[https://github.com/abdalmlk5](https://github.com/elevate-team-6/flowers-app)"><img src="https://img.shields.io/badge/Repo-0D1F1F?style=flat-square&logo=github&logoColor=00E5CC" /></a>
+<a href="https://github.com/elevate-team-6/flowers-app"><img src="https://img.shields.io/badge/Repo-0D1F1F?style=flat-square&logo=github&logoColor=00E5CC" /></a>
 
 </td>
 <td width="50%">
-  
 
 ### 🌐 Portfolio
 Single-file dark-mode portfolio, self-updating via JSON.
@@ -96,7 +96,7 @@ Single-file dark-mode portfolio, self-updating via JSON.
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdalmlk5&show_icons=true&hide_border=true&bg_color=0D1F1F&title_color=00E5CC&icon_color=00E5CC&text_color=FFFFFF" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abdalmlk5&hide_border=true&background=0D1F1F&stroke=00E5CC&ring=00E5CC&fire=00E5CC&currStreakLabel=00E5CC&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
+<img height="165" src="https://streak-stats.demolab.com/?user=abdalmlk5&hide_border=true&background=0D1F1F&stroke=00E5CC&ring=00E5CC&fire=00E5CC&currStreakLabel=00E5CC&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalmlk5&layout=compact&hide_border=true&bg_color=0D1F1F&title_color=00E5CC&text_color=FFFFFF" />
 
