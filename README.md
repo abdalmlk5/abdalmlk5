@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1F1F,100:00E5CC&height=200&section=header&text=Abdelmalek%20Mokhtar&fontSize=38&fontColor=00E5CC&fontAlignY=35&animation=fadeIn&desc=Mobile%20App%20Developer%20%7C%20Flutter%20Developer&descAlignY=55&descSize=16&descColor=FFFFFF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1F1F,100:00E5CC&height=200&section=header&text=Abdelmalek%20Mokhtar&fontSize=38&fontColor=00E5CC&fontAlignY=35&animation=fadeIn&desc=Mobile%20App%20Developer%20%7C%20Flutter%20Developer&descAlignY=55&descSize=16&descColor=FFFFFF" />
 
 <a href="https://abdelmalek-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://linkedin.com/in/abdelmalek-mokhtar-103b3430b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -101,4 +101,4 @@ Single-file dark-mode portfolio, self-updating via JSON.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5CC,100:0D1F1F&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5CC,100:0D1F1F&height=100&section=footer" />
