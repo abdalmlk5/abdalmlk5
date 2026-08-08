@@ -91,14 +91,11 @@ Single-file dark-mode portfolio, self-updating via JSON.
 
 <br>
 
-## GitHub Stats
+## Contribution Snake
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdalmlk5&show_icons=true&hide_border=true&bg_color=0D1F1F&title_color=00E5CC&icon_color=00E5CC&text_color=FFFFFF" />
-<img height="165" src="https://streak-stats.demolab.com/?user=abdalmlk5&hide_border=true&background=0D1F1F&stroke=00E5CC&ring=00E5CC&fire=00E5CC&currStreakLabel=00E5CC&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalmlk5&layout=compact&hide_border=true&bg_color=0D1F1F&title_color=00E5CC&text_color=FFFFFF" />
+<img src="https://raw.githubusercontent.com/abdalmlk5/abdalmlk5/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 
 </div>
 
